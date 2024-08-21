@@ -1,0 +1,2 @@
+For data download, please visit here
+https://www.kaggle.com/datasets/datamunge/sign-language-mnist
